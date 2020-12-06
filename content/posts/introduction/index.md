@@ -1,6 +1,6 @@
 ---
 title: "Introduction Post"
-date: 2020-12-07T08:06:25+06:00
+date: 2020-12-06T08:06:25+06:00
 hero: /posts/introduction/astro.jpg
 description: Introduction to Sample Post
 menu:
