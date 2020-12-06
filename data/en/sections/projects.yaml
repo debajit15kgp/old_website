@@ -1,0 +1,64 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Non Intrusive Load Monitoring
+  logo: /images/sections/projects/kubernetes.png
+  role: Contributor
+  timeline: "March 2018 - Present"
+  repo: https://github.com/debajit15kgp/Winter_Intern-IIT_Delhi_nilm # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Production-Grade Container Scheduling and Management.
+  tags: ["professional", "kubernetes", "cloud"]
+
+- name: Target Based Sentiment Analysis
+  logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "Jun 2018 - Present"
+  repo: https://github.com/debajit15kgp/BERT-ABSA-E2E
+  #url: ""
+  summary: An Open Source Machine Learning Framework for Everyone.
+  tags: ["professional", "machine-learning","academic"]
+
+- name: FSM
+  logo: /images/sections/projects/toha.png
+  role: Owner
+  timeline: "Jun 2019 - Present"
+  repo: https://github.com/debajit15kgp/krssg_task1
+  summary: A Hugo theme for personal portfolio.
+  tags: ["hobby","hugo","theme","professional"]
+
+- name: Implementing RRT* throug PID controller using Turtlesim on ROS
+  logo: /images/sections/projects/toha.png
+  role: Owner
+  timeline: "Jun 2019 - Present"
+  repo: https://github.com/debajit15kgp/krssg_task2
+  summary: A Hugo theme for personal portfolio.
+  tags: ["hobby","hugo","theme","professional"]
+
+- name: Implementing strategy on Humanoid Robots
+  logo: /images/sections/projects/toha.png
+  role: Owner
+  timeline: "Jun 2019 - Present"
+  repo: https://github.com/debajit15kgp/krssg_task3
+  summary: A Hugo theme for personal portfolio.
+  tags: ["hobby","hugo","theme","professional"]

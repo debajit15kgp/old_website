@@ -1,0 +1,39 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Gurgaon City Topper as well as School Topper in 12th Standard CBSE Boards Exam with 98.2% in Science Stream
+  image: /images/sections/achievements/board.jpg
+  summary: Best presenter in the 2020 XYZ conference.
+
+- title: Part of the only team to qualify for the International Robocup which was to be hold at Bordeaux 2020 but currently on hold.
+  image: /images/sections/achievements/robocup.jpg
+  summary: Champion in cycling inter-city cycling championship 2020.
+
+- title: Amongst the top 0.005% (AIR-372) in Kishore Vaigyanik Protsahan Yojana Scholar (SX) - Indian Institute of Science, Bangalore
+  image: /images/sections/achievements/kvpy.jpg
+  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
+
+- title: Had an All India Rank of 29 among 0.2 million candidates in West Bengal Joint Entrance Exam(Top 0.0001%)
+  image: /images/sections/achievements/wbjee.jpg
+  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
+
+- title: Amongst the top 0.0001% (AIR-73) in Kishore Vaigyanik Protsahan Yojana Scholar (SA) - Indian Institute of Science, Bangalore
+  image: /images/sections/achievements/kvpy.jpg
+  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
+
+- title: Had an All India Rank of 550 among 0.2 million candidates in JEE Main(Top 0.001%)
+  image: /images/sections/achievements/jee2.jpg
+  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
+
+- title: Had an All India Rank of 245 among 1.3 million candidates in JEE Main(Top 0.0001%)
+  image: /images/sections/achievements/jee.jpg
+  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.

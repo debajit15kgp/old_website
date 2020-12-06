@@ -1,0 +1,60 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Third Year Undergraduate Student
+# # your company information
+# company:
+#   name: Example Co.
+#   url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Hi! I am Debajit Chakraborty an undergraduate 3rd year student of the Department of Electronics and Communication Engineering at IIT Kharagpur. I am an active member of Kharagpur Robosoccer Students Group and I am primarily interested in Research Work in the Deep Learning Field - namely Natural Language Processing and Reinforcement Learning. I am also interested in quantitative positions and research.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/debajit15kgp"
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/debajit_chakraborty_/"
+- name: Instagram
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/debajit-chakraborty-iitkgp/"
+- name: Medium
+  icon: "fab fa-medium"
+  url: "https://medium.com/@c.debajit15"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Sincerity
+  percentage: 100
+  color: blue
+- name: Honesty
+  percentage: 100
+  color: pink
+- name: Team Work
+  percentage: 95
+  color: green
+- name: Time Management
+  percentage: 95
+  color: yellow
+- name: Problem solving and Critical Thinking
+  percentage: 100
+  color: sky
+- name: Creativity
+  percentage: 90
+  color: orange

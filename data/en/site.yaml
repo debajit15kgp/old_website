@@ -1,0 +1,11 @@
+# Copyright Notice
+copyright: © 2020 Copyright.
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: Portfolio and personal blog of Debajit Chakraborty.
+
+# specify the list of custom menus that you want to show in the top navbar.
+# they will be separated by a divider from the main menus.
+customMenus:
+- name: Resume
+  url: https://drive.google.com/file/d/1uHuRO5yuBw0PO_OGxITieybV77RAgJuZ/view?usp=sharing

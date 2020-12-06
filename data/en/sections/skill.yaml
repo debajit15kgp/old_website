@@ -1,0 +1,48 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Natural Language Processing
+  icon: "/images/sections/skills/nlp.png"
+  summary: "Have taken the course for Natural Language Processing(CS224N and home university) and did a project on Target-Based Sentiment Analysis."
+
+- name: Reinforcement Learning
+  icon: "/images/sections/skills/rl.jpg"
+  summary: "Humanoid Team Member at KRSSG and completed the CS285 course of UC Berkeley."
+
+- name: Probability & Statistics/Stochastics
+  icon: "/images/sections/skills/prob.webp"
+  summary: "Have taken the Probability and Statistics course and incoming quantitative analyst summer intern at Quadeye."
+
+- name: C++/Python
+  icon: "/images/sections/skills/pyc.jpg"
+  summary: "Learnt C++ for Competitive Programming and have comprehensive grip on Python."
+
+- name: Tensorflow/Pytorch
+  icon: "/images/sections/skills/tfpy.png"
+  summary: "Have implemented several models and self as well as lab projects on both Tensorflow and Pytorch."
+
+- name: Robot Operating System
+  icon: "/images/sections/skills/ros.png"
+  summary: "Worked primarily on Codebase for Soccer playing simulation team and implemented PID on a turtlesim."
+
+- name: Computer Vision
+  icon: "/images/sections/skills/cv.png"
+  summary: "Have done a course of CS231N and did a self project on Computer Vision."
+
+- name: Probabilistic Machine Learning
+  icon: "/images/sections/skills/ml.png"
+  summary: "Did a course on Probabilistic Machine Learning of IIT Kanpur."
+
+- name: HTML/CSS/Javascript
+  icon: "/images/sections/skills/html.jpeg"
+  summary: "Have made several websites and did a course on front-end and backend in school as well as college."
