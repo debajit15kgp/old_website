@@ -8,4 +8,5 @@ description: Portfolio and personal blog of Debajit Chakraborty.
 # they will be separated by a divider from the main menus.
 customMenus:
 - name: Resume
-  url: https://drive.google.com/file/d/1uHuRO5yuBw0PO_OGxITieybV77RAgJuZ/view?usp=sharing
+  url: files/resume.pdf
+# https://drive.google.com/file/d/1uHuRO5yuBw0PO_OGxITieybV77RAgJuZ/view?usp=sharing

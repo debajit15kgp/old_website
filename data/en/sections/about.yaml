@@ -10,15 +10,17 @@ section:
 # your designation
 designation: Third Year Undergraduate Student
 # # your company information
-# company:
-#   name: Example Co.
-#   url: "https://www.example.com"
+company:
+  name: IIT Kharagpur.
+  url: "http://www.iitkgp.ac.in/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Hi! I am Debajit Chakraborty an undergraduate 3rd year student of the Department of Electronics and Communication Engineering at IIT Kharagpur. I am an active member of Kharagpur Robosoccer Students Group and I am primarily interested in Research Work in the Deep Learning Field - namely Natural Language Processing and Reinforcement Learning. I am also interested in quantitative positions and research.'
+summary: 'Hi! I am Debajit Chakraborty an undergraduate 3rd year student of the Department of Electronics and Communication Engineering at IIT Kharagpur. I am an active member of Kharagpur 
+Robosoccer Students Group and I am primarily interested in Research Work in field of Reinforcement Learning, Robotics and Natural Language Processing. 
+I am also interested in quantitative positions and research.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -26,35 +28,44 @@ socialLinks:
 - name: Github
   icon: "fab fa-github"
   url: "https://www.github.com/debajit15kgp"
-- name: Instagram
-  icon: "fab fa-instagram"
-  url: "https://www.instagram.com/debajit_chakraborty_/"
-- name: Instagram
+- name: Google Scholar
+  icon: "fab fa-google"
+  url: "https://scholar.google.com/citations?user=LTZeaTIAAAAJ&hl=en"
+- name: Linkedin
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/debajit-chakraborty-iitkgp/"
 - name: Medium
   icon: "fab fa-medium"
   url: "https://medium.com/@c.debajit15"
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/debajit_chakraborty_/"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Sincerity
+- name: C/C++
   percentage: 100
   color: blue
-- name: Honesty
+- name: Python
   percentage: 100
   color: pink
-- name: Team Work
-  percentage: 95
+- name: Tensorflow
+  percentage: 98
   color: green
-- name: Time Management
-  percentage: 95
-  color: yellow
-- name: Problem solving and Critical Thinking
-  percentage: 100
-  color: sky
-- name: Creativity
+- name: Mujoco/Gym
   percentage: 90
+  color: yellow
+- name: Pytorch
+  percentage: 98
+  color: sky
+- name: Numpy
+  percentage: 95
   color: orange
+- name: Pandas
+  percentage: 100
+  color: blue
+- name: Flutter
+  percentage: 90
+  color: yellow

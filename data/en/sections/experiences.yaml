@@ -11,6 +11,35 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Quadeye
+    url: "https://www.quadeye.com/"
+    location: Gurgaon
+    # company overview
+    overview: 
+  positions:
+  - designation: Upcoming 2021 Summer Intern
+    start: May 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    # responsibilities:
+    # - Trained a BERT(on word embeddings armed with transformers)+Linear,GRU,TFM,SAN,CRF for End-to-End Aspect Based Sentiment Analysis on our custom made dataset
+- company:
+    name: Uber Hacktag
+    url: "https://dare2compete.com/o/uber-hacktag-uber-technologies-inc-148162"
+    location: Gurgaon
+    # company overview
+    overview: 
+  positions:
+  - designation: Second Runner-Up
+    start: April 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Built an app for advertising based solutions for Uber Hacktag using Flutter and Google API
+    - All India Second Runner Up among 10000 teams
+- company:
     name: Complex Networks Research Group
     url: "https://www.linkedin.com/company/iitkgpcnerg/"
     location: Kharagpur
@@ -20,27 +49,21 @@ experiences:
   - designation: Project Intern
     start: April 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: September 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Working on proposing unsupervised model for Sentiment Analysis with help of opinion words and dependency trees.
-    - Annotated Custom Dataset of Tourist Reviews, performed sentence level opinion extraction, converted data to xml vice versa.
-    - Trained a BERT(on word embeddings armed with transformers)+Linear,GRU,TFM,SAN,CRF for End-to-End Aspect Based Sentiment Analysis on our custom made dataset and performed benchmarking on 7-8 available models to prove robustness.
+    - Trained a BERT(on word embeddings armed with transformers)+Linear,GRU,TFM,SAN,CRF for End-to-End Aspect Based Sentiment Analysis on our custom made dataset
 
 - company:
     name: Kharagpur Robosoccer Student Group
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    url: "https://krssg.in/index.html"
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Artificial Inteligence Team Member
+    start: March 2019
+    # end: Present
     responsibilities:
     - Built cooperative multi-agent systems in the highly dynamic adversarial environment of RoboSoccer and wrote plays for Defenders, Midfielders and Attackers and wrote coordinated plays.
-    - Developed a virtual simulator for connecting local cameras with simulation client using ROS and pygame graphic user interface.
-    - Developed codebase using Finite State Machine architecture to implement coordinated behaviour in grSim Simulator and established communication between two clients and server using socket programming using TCP/IP protocol .
-    - Implemented RRT and RRT* Path Planning Algorithm and used it’s data to simulate bots in Robot Operating System (ROS) and ran FIRA bots on mini simulation and organised a contest between 40+ teams all over India.
+    - Implemented RRT and RRT* Path Planning Algorithm and used it’s data to simulate bots in Robot Operating System (ROS).
 
 - company:
     name: Indian Institute of Technology, Delhi
@@ -53,5 +76,3 @@ experiences:
     end: Januray 2020
     responsibilities:
     - Implemented basic Machine Learning and Deep Learning such as CNN,RNN+LSTM,CRF,GRU,RESNET Models on AMPDs dataset and and used CNN’s on time series data instead of standard approach of RNN’s on sequential data.
-    - Trained models which predicted which electrical appliances were on given the various active and reactive time series data.
-    - Worked on finding Deep Learning solutions for NILM and extensively researched about the various toolkits available such as NILMTK and read about existing solutions on the problems.

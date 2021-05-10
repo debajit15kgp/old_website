@@ -11,13 +11,13 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Natural Language Processing
-  icon: "/images/sections/skills/nlp.png"
-  summary: "Have taken the course for Natural Language Processing(CS224N and home university) and did a project on Target-Based Sentiment Analysis."
-
 - name: Reinforcement Learning
   icon: "/images/sections/skills/rl.jpg"
-  summary: "Humanoid Team Member at KRSSG and completed the CS285 course of UC Berkeley."
+  summary: "Communication in Multi-Agent Systems, Humanoid Team Member at KRSSG, completed the CS285 course of UC Berkeley."
+
+- name: Natural Language Processing
+  icon: "/images/sections/skills/nlp.png"
+  summary: "Paper submitted for Review at JCDL 2021, Published Paper at EACL 2021, Project on Target-Based Sentiment Analysis."
 
 - name: Probability & Statistics/Stochastics
   icon: "/images/sections/skills/prob.webp"
@@ -35,14 +35,14 @@ skills:
   icon: "/images/sections/skills/ros.png"
   summary: "Worked primarily on Codebase for Soccer playing simulation team and implemented PID on a turtlesim."
 
-- name: Computer Vision
-  icon: "/images/sections/skills/cv.png"
-  summary: "Have done a course of CS231N and did a self project on Computer Vision."
+# - name: Computer Vision
+#   icon: "/images/sections/skills/cv.png"
+#   summary: "Have done a course of CS231N and did a self project on Computer Vision."
 
-- name: Probabilistic Machine Learning
-  icon: "/images/sections/skills/ml.png"
-  summary: "Did a course on Probabilistic Machine Learning of IIT Kanpur."
+# - name: Probabilistic Machine Learning
+#   icon: "/images/sections/skills/ml.png"
+#   summary: "Did a course on Probabilistic Machine Learning of IIT Kanpur."
 
-- name: HTML/CSS/Javascript
-  icon: "/images/sections/skills/html.jpeg"
-  summary: "Have made several websites and did a course on front-end and backend in school as well as college."
+# - name: HTML/CSS/Javascript
+#   icon: "/images/sections/skills/html.jpeg"
+#   summary: "Have made several websites and did a course on front-end and backend in school as well as college."
