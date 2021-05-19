@@ -11,6 +11,10 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+- name: Quantitative Finance
+  icon: "images/sections/skills/finance.jpg"
+  summary: "Completed the MIT course on Topics in Mathematics and Applications in Finance."
+  
 - name: Reinforcement Learning
   icon: "/images/sections/skills/rl.jpg"
   summary: "Communication in Multi-Agent Systems, Humanoid Team Member at KRSSG, completed the CS285 course of UC Berkeley."
@@ -31,9 +35,9 @@ skills:
   icon: "/images/sections/skills/tfpy.png"
   summary: "Have implemented several models and self as well as lab projects on both Tensorflow and Pytorch."
 
-- name: Robot Operating System
-  icon: "/images/sections/skills/ros.png"
-  summary: "Worked primarily on Codebase for Soccer playing simulation team and implemented PID on a turtlesim."
+# - name: Robot Operating System
+#   icon: "/images/sections/skills/ros.png"
+#   summary: "Worked primarily on Codebase for Soccer playing simulation team and implemented PID on a turtlesim."
 
 # - name: Computer Vision
 #   icon: "/images/sections/skills/cv.png"
